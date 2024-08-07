@@ -1,0 +1,6 @@
+SELECT TOP (1000) [Id]
+      ,[Ativo]
+      ,[Setor]
+      ,[TipoChave]
+      ,[Chave]
+  FROM [baseServiceDeskN1].[dbo].[TB_COLABORADOR]

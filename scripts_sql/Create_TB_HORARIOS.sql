@@ -1,0 +1,4 @@
+CREATE TABLE TB_HORARIOS(
+    IdHorario INT PRIMARY KEY IDENTITY(1,1),
+    Descricao TIME
+)
